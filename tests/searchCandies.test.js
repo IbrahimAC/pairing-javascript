@@ -1,4 +1,4 @@
-const searchCandies = require('./searchCandies')
+const searchCandies = require('../lib/searchCandies')
 
 describe ('searchCandies', () =>{
   it('returns "Mars" and "Maltesers" ', ()=>{
